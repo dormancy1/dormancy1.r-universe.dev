@@ -3,5 +3,11 @@
         "package": "lefko3",
         "url": "https://github.com/dormancy1/lefko3",
         "subdir": "pkg"
+    },
+    {
+        "package": "adapt3",
+        "url": "https://github.com/dormancy1/adapt3",
+        "subdir": "pkg"
     }
+    
 ]
